@@ -19,7 +19,7 @@ function getAnagramsOf(text) {
   }
   return (newArray)
 }
-
+  //
 function alphabetize(a) {
   
   return a.toLowerCase()
